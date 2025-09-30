@@ -20,13 +20,13 @@
       margin-top: 20px;
     }
     .skills img {
-      width: 80px;
-      height: 80px;
+      width: 10px;
+      height: 10px;
       object-fit: contain;
     }
   </style>
 </head>
-<body>
+<body>1
   <h1> Hola, soy Poul Guzman</h1>
   <p>Desarrollador Frontend | Apasionado por el código limpio</p>
 
